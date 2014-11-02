@@ -1,0 +1,11 @@
+*~
+history
+auto-save-list
+backups
+*~
+.places
+session.*
+tramp
+elpa
+*.elc
+.DS_Store
